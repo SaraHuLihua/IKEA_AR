@@ -1,6 +1,7 @@
 # IKEAR
 
-![Frame 2](https://github.com/SaraHuLihua/IKEA_AR/assets/148463154/dc210665-7f3b-4156-b80d-4f85880ee194)
+![Frame 13](https://github.com/SaraHuLihua/IKEA_AR/assets/148463154/29f246eb-7b40-4200-95c5-643d44cf5923)
+
 
 **Note: This application is designed solely for academic purposes and learning. The images used within the app are for educational use only, and I do not hold the rights to them.**
 
