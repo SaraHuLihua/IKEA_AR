@@ -13,4 +13,4 @@ The IKEAR app is an academic project aimed at exploring augmented reality (AR) t
 - Visualize items in your space using AR technology.
 - Reposition and scale the furniture models in AR using intuitive gestures for a more personalized experience.
 
-![App of the Day - iPhone](https://github.com/SaraHuLihua/IKEA_AR/assets/148463154/58f9942a-1a1e-4882-bde8-f478a11ee9ae)
+![App of the Day - iPhone](https://github.com/SaraHuLihua/IKEA_AR/assets/148463154/715f6f2f-4107-4aa7-a457-0562cc42bb0b)
