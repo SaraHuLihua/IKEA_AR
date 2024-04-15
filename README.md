@@ -1,24 +1,7 @@
 # IKEAR
-
-![Frame 13](https://github.com/SaraHuLihua/IKEA_AR/assets/148463154/29f246eb-7b40-4200-95c5-643d44cf5923)
-
-
-**Note: This application is designed solely for academic purposes and learning. The images used within the app are for educational use only, and I do not hold the rights to them.**
-
-## Description
-The IKEAR app is an academic project aimed at exploring augmented reality (AR) technology within the context of interior design and furniture placement. This application allows users to virtually place furniture and decor items in their space using AR functionality. Please note that the images used are for educational purposes and do not represent real products available for sale.
-
-## Feature
-- Explore a variety of furniture items virtually.
-- Visualize items in your space using AR technology.
-- Reposition and scale the furniture models in AR using intuitive gestures for a more personalized experience.
-
-![App of the Day - iPhone](https://github.com/SaraHuLihua/IKEA_AR/assets/148463154/715f6f2f-4107-4aa7-a457-0562cc42bb0b)
-
-
-# IKEAR
 **Note: This application is designed solely for academic purposes and learning. The images and 3D models used within the app are for educational use only, I do not hold the rights to them.**
-![Banner](https://github.com/zRedk/IKEAR/blob/main/Banner.jpeg)
+  
+![Frame 13](https://github.com/SaraHuLihua/IKEA_AR/assets/148463154/29f246eb-7b40-4200-95c5-643d44cf5923)
 ![Static Badge](https://img.shields.io/badge/XCode_Version-15.0-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.9-green?style=flat&logo=swift) 
 
 ## Contents
@@ -59,7 +42,7 @@ IKEAR was born out of a desire to learn and master various iOS development techn
 * Clone the repository to your computer with [git](https://git-scm.com/).
 
   ```bash
-  git clone https://github.com/zRedk/IKEAR.git
+  git clone https://github.com/SaraHuLihua/IKEA_AR
   ```
 * Open the "IKEA_NC1.xcodeproj" file with Xcode.
 
@@ -68,7 +51,7 @@ IKEAR was born out of a desire to learn and master various iOS development techn
 <a name="license"></a>
 ## License
 
-SetMeUp is licensed under the GNU License. See the [LICENSE](https://github.com/zRedk/IKEAR/blob/main/LICENSE) file for details.
+SetMeUp is licensed under the GNU License. See the [LICENSE](https://github.com/SaraHuLihua/IKEA_AR/blob/main/LICENSE.txt) file for details.
 
 <a name="credits"></a>
 ## Credits
